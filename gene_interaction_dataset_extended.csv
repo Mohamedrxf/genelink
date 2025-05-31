@@ -1,0 +1,379 @@
+Gene A,Gene B,Co-expression,PPI Link,Shared Pathways,Shared Diseases,Output
+KRAS,CTNNB1,High,No,Yes,Lung Cancer,0
+CHEK2,TP53,Low,Yes,No,Lymphoma,0
+APC,TP53,Medium,No,Yes,Colon Cancer,0
+BCL2,PIK3CA,High,Yes,No,Prostate Cancer,0
+CTNNB1,CHEK2,High,Yes,No,None,0
+TP53,MYC,Low,No,No,Melanoma,0
+ATM,CTNNB1,High,Yes,Yes,Melanoma,1
+CTNNB1,PTEN,Medium,No,No,Glioblastoma,0
+CCNA2,KRAS,Low,Yes,Yes,Leukemia,0
+AKT1,RB1,High,No,No,Breast Cancer,0
+BRCA1,AKT1,High,Yes,Yes,Glioblastoma,1
+CHEK2,AKT1,Low,No,Yes,Melanoma,0
+MDM2,CDKN2A,Medium,No,No,Pancreatic Cancer,0
+PTEN,KRAS,Medium,Yes,Yes,Lymphoma,0
+PTEN,KRAS,Medium,Yes,No,Pancreatic Cancer,0
+PIK3CA,MYC,High,No,Yes,Melanoma,0
+RB1,CDK2,Low,Yes,Yes,Prostate Cancer,0
+TP53,CDK2,High,No,Yes,Leukemia,0
+EGFR,CDK2,High,Yes,No,Glioblastoma,0
+BRCA1,CTNNB1,Low,Yes,Yes,None,0
+BRCA2,CDKN2A,Low,Yes,Yes,Melanoma,0
+CTNNB1,CDK2,Low,Yes,No,Lung Cancer,0
+TP53,MYC,Low,Yes,Yes,Breast Cancer,0
+BRCA1,MYC,Low,No,No,Lung Cancer,0
+BRCA2,PIK3CA,Medium,No,No,Lymphoma,0
+CTNNB1,CDK2,Medium,No,No,Breast Cancer,0
+CDKN2A,MDM2,Medium,No,No,Lymphoma,0
+CHEK2,AKT1,Medium,Yes,Yes,Prostate Cancer,0
+MDM2,CDK2,High,No,Yes,Glioblastoma,0
+PTEN,BCL2,Medium,No,No,Lung Cancer,0
+CHEK2,CCNA2,Medium,Yes,Yes,Leukemia,0
+AKT1,PTEN,Medium,Yes,Yes,Lymphoma,0
+CHEK2,CCNA2,Medium,No,Yes,Prostate Cancer,0
+BRCA1,CTNNB1,Low,No,No,Prostate Cancer,0
+EGFR,SMAD4,Low,No,No,None,0
+MDM2,PIK3CA,Medium,No,Yes,Lymphoma,0
+BRCA1,CTNNB1,Low,Yes,Yes,Leukemia,0
+EGFR,TP53,Medium,No,No,Colon Cancer,0
+CHEK2,PTEN,Low,No,Yes,Lung Cancer,0
+PTEN,BRCA2,Low,Yes,Yes,Lung Cancer,0
+SMAD4,CDK2,High,Yes,Yes,Pancreatic Cancer,1
+PTEN,BCL2,High,Yes,No,Lymphoma,0
+BRCA2,BCL2,Medium,Yes,No,Glioblastoma,0
+CCNA2,TP53,High,Yes,No,Glioblastoma,0
+CDKN2A,CCNA2,Low,No,Yes,Glioblastoma,0
+TP53,PIK3CA,Low,Yes,Yes,Glioblastoma,0
+CTNNB1,TP53,Low,No,Yes,Lymphoma,0
+APC,RB1,Medium,No,Yes,Leukemia,0
+RB1,BCL2,High,No,No,Breast Cancer,0
+KRAS,MYC,High,Yes,No,Lung Cancer,0
+TP53,BRCA1,High,Yes,Yes,Breast Cancer,1
+TP53,EGFR,Low,No,No,None,0
+BRCA1,BRCA2,High,Yes,Yes,Breast Cancer,1
+EGFR,KRAS,Medium,Yes,Yes,Lung Cancer,1
+TP53,MDM2,High,Yes,Yes,None,1
+BRCA2,PTEN,Low,No,No,None,0
+MYC,TP53,Medium,Yes,Yes,Lymphoma,1
+CDK2,CCNA2,High,Yes,Yes,None,1
+EGFR,PIK3CA,Medium,Yes,Yes,Glioblastoma,1
+TP53,CDKN2A,High,Yes,Yes,Multiple Cancers,1
+KRAS,CTNNB1,High,No,Yes,Lung Cancer,0
+CHEK2,TP53,Low,Yes,No,Lymphoma,0
+APC,TP53,Medium,No,Yes,Colon Cancer,0
+BCL2,PIK3CA,High,Yes,No,Prostate Cancer,0
+BRCA1,CHEK2,High,Yes,Yes,Breast Cancer,1
+AKT1,CCNA2,Medium,Yes,Yes,None,1
+RB1,MDM2,Low,No,No,Melanoma,0
+CDKN2A,PTEN,High,Yes,Yes,Glioblastoma,1
+BRCA2,ATM,High,Yes,Yes,Breast Cancer,1
+EGFR,APC,Low,No,No,None,0
+MYC,AKT1,Medium,Yes,Yes,Colon Cancer,1
+PIK3CA,BRCA1,Medium,Yes,Yes,Breast Cancer,1
+TP53,CHEK2,High,Yes,Yes,Multiple Cancers,1
+SMAD4,PTEN,Medium,Yes,Yes,Pancreatic Cancer,1
+ATM,EGFR,Low,No,No,None,0
+RB1,BRCA1,Medium,Yes,Yes,Breast Cancer,1
+BCL2,CDKN2A,Low,No,No,Lymphoma,0
+CHEK2,SMAD4,High,Yes,Yes,Colon Cancer,1
+CTNNB1,BRCA2,Medium,No,Yes,Breast Cancer,0
+CDK2,AKT1,High,Yes,Yes,None,1
+MDM2,KRAS,Low,No,No,None,0
+PTEN,EGFR,Medium,Yes,Yes,Glioblastoma,1
+CDKN2A,APC,Medium,No,Yes,Colon Cancer,0
+TP53,AKT1,High,Yes,Yes,Pancreatic Cancer,1
+BRCA2,CTNNB1,Low,No,No,None,0
+MYC,CDK2,Medium,Yes,Yes,Lymphoma,1
+ATM,BCL2,Low,No,No,None,0
+CCNA2,PTEN,Medium,Yes,Yes,Prostate Cancer,1
+RB1,CDKN2A,High,Yes,Yes,Multiple Cancers,1
+PIK3CA,SMAD4,High,Yes,Yes,Colon Cancer,1
+BRCA1,ATM,High,Yes,Yes,Breast Cancer,1
+MDM2,BRCA2,Medium,No,Yes,Breast Cancer,0
+EGFR,MYC,Medium,Yes,Yes,Glioblastoma,1
+TP53,SMAD4,High,Yes,Yes,Colon Cancer,1
+CTNNB1,CCNA2,Medium,Yes,Yes,Colon Cancer,1
+KRAS,AKT1,Low,No,No,Lung Cancer,0
+PTEN,BRCA1,Medium,Yes,Yes,Breast Cancer,1
+BRCA2,RB1,High,Yes,Yes,Breast Cancer,1
+CDK2,MDM2,Medium,Yes,Yes,None,1
+CDKN2A,CHEK2,High,Yes,Yes,Multiple Cancers,1
+APC,CCNA2,Low,No,No,Colon Cancer,0
+TP53,BRCA1,High,Yes,Yes,Breast Cancer,1
+TP53,EGFR,Low,No,No,None,0
+BRCA1,BRCA2,High,Yes,Yes,Breast Cancer,1
+EGFR,KRAS,Medium,Yes,Yes,Lung Cancer,1
+TP53,MDM2,High,Yes,Yes,None,1
+BRCA2,PTEN,Low,No,No,None,0
+MYC,TP53,Medium,Yes,Yes,Lymphoma,1
+CDK2,CCNA2,High,Yes,Yes,None,1
+EGFR,PIK3CA,Medium,Yes,Yes,Glioblastoma,1
+TP53,CDKN2A,High,Yes,Yes,Multiple Cancers,1
+KRAS,CTNNB1,High,No,Yes,Lung Cancer,0
+CHEK2,TP53,Low,Yes,No,Lymphoma,0
+APC,TP53,Medium,No,Yes,Colon Cancer,0
+BCL2,PIK3CA,High,Yes,No,Prostate Cancer,0
+BRCA1,CHEK2,High,Yes,Yes,Breast Cancer,1
+AKT1,CCNA2,Medium,Yes,Yes,None,1
+RB1,MDM2,Low,No,No,Melanoma,0
+CDKN2A,PTEN,High,Yes,Yes,Glioblastoma,1
+BRCA2,ATM,High,Yes,Yes,Breast Cancer,1
+EGFR,APC,Low,No,No,None,0
+MYC,AKT1,Medium,Yes,Yes,Colon Cancer,1
+PIK3CA,BRCA1,Medium,Yes,Yes,Breast Cancer,1
+TP53,CHEK2,High,Yes,Yes,Multiple Cancers,1
+SMAD4,PTEN,Medium,Yes,Yes,Pancreatic Cancer,1
+ATM,EGFR,Low,No,No,None,0
+RB1,BRCA1,Medium,Yes,Yes,Breast Cancer,1
+BCL2,CDKN2A,Low,No,No,Lymphoma,0
+CHEK2,SMAD4,High,Yes,Yes,Colon Cancer,1
+CTNNB1,BRCA2,Medium,No,Yes,Breast Cancer,0
+CDK2,AKT1,High,Yes,Yes,None,1
+MDM2,KRAS,Low,No,No,None,0
+PTEN,EGFR,Medium,Yes,Yes,Glioblastoma,1
+CDKN2A,APC,Medium,No,Yes,Colon Cancer,0
+TP53,AKT1,High,Yes,Yes,Pancreatic Cancer,1
+BRCA2,CTNNB1,Low,No,No,None,0
+MYC,CDK2,Medium,Yes,Yes,Lymphoma,1
+ATM,BCL2,Low,No,No,None,0
+CCNA2,PTEN,Medium,Yes,Yes,Prostate Cancer,1
+RB1,CDKN2A,High,Yes,Yes,Multiple Cancers,1
+PIK3CA,SMAD4,High,Yes,Yes,Colon Cancer,1
+BRCA1,ATM,High,Yes,Yes,Breast Cancer,1
+MDM2,BRCA2,Medium,No,Yes,Breast Cancer,0
+EGFR,MYC,Medium,Yes,Yes,Glioblastoma,1
+TP53,SMAD4,High,Yes,Yes,Colon Cancer,1
+CTNNB1,CCNA2,Medium,Yes,Yes,Colon Cancer,1
+KRAS,AKT1,Low,No,No,Lung Cancer,0
+PTEN,BRCA1,Medium,Yes,Yes,Breast Cancer,1
+BRCA2,RB1,High,Yes,Yes,Breast Cancer,1
+CDK2,MDM2,Medium,Yes,Yes,None,1
+CDKN2A,CHEK2,High,Yes,Yes,Multiple Cancers,1
+APC,CCNA2,Low,No,No,Colon Cancer,0
+AKT1,SMAD4,Medium,Yes,Yes,Pancreatic Cancer,1
+CCNA2,BRCA1,High,Yes,Yes,Breast Cancer,1
+KRAS,TP53,High,Yes,Yes,Lung Cancer,1
+CHEK2,EGFR,Medium,No,Yes,Glioblastoma,0
+MDM2,ATM,Medium,Yes,Yes,Multiple Cancers,1
+CDKN2A,CTNNB1,Medium,Yes,Yes,Colon Cancer,1
+KRAS,CTNNB1,High,No,Yes,Lung Cancer,0
+CHEK2,TP53,Low,Yes,No,Lymphoma,0
+APC,TP53,Medium,No,Yes,Colon Cancer,0
+BCL2,PIK3CA,High,Yes,No,Prostate Cancer,0
+CTNNB1,CHEK2,High,Yes,No,None,0
+TP53,MYC,Low,No,No,Melanoma,0
+ATM,CTNNB1,High,Yes,Yes,Melanoma,1
+CTNNB1,PTEN,Medium,No,No,Glioblastoma,0
+CCNA2,KRAS,Low,Yes,Yes,Leukemia,0
+AKT1,RB1,High,No,No,Breast Cancer,0
+BRCA1,AKT1,High,Yes,Yes,Glioblastoma,1
+CHEK2,AKT1,Low,No,Yes,Melanoma,0
+MDM2,CDKN2A,Medium,No,No,Pancreatic Cancer,0
+PTEN,KRAS,Medium,Yes,Yes,Lymphoma,0
+PTEN,KRAS,Medium,Yes,No,Pancreatic Cancer,0
+PIK3CA,MYC,High,No,Yes,Melanoma,0
+RB1,CDK2,Low,Yes,Yes,Prostate Cancer,0
+TP53,CDK2,High,No,Yes,Leukemia,0
+EGFR,CDK2,High,Yes,No,Glioblastoma,0
+BRCA1,CTNNB1,Low,Yes,Yes,None,0
+PIK3CA,AKT1,Medium,No,Yes,Glioblastoma,1
+CHEK2,BCL2,Medium,No,No,Melanoma,0
+APC,BRCA2,Low,Yes,No,Multiple Cancers,0
+EGFR,KRAS,Medium,No,No,Lymphoma,0
+PIK3CA,BRCA1,Low,No,No,Lymphoma,1
+KRAS,TP53,High,Yes,No,Lung Cancer,0
+CHEK2,PIK3CA,Low,Yes,Yes,Pancreatic Cancer,0
+BCL2,BRCA1,Low,Yes,No,None,1
+CCNA2,BRCA1,Low,Yes,No,Lymphoma,1
+CCNA2,MYC,Low,No,Yes,Lung Cancer,0
+TP53,EGFR,Medium,No,Yes,Colon Cancer,1
+CTNNB1,APC,Medium,Yes,Yes,Prostate Cancer,1
+APC,KRAS,Medium,Yes,Yes,Lung Cancer,1
+BRCA1,CHEK2,Medium,No,No,Breast Cancer,1
+CDK2,BRCA2,Low,Yes,Yes,Breast Cancer,1
+AKT1,CDKN2A,High,No,Yes,Melanoma,0
+PTEN,CCNA2,Medium,Yes,Yes,None,1
+TP53,AKT1,Medium,No,No,Prostate Cancer,0
+PTEN,PIK3CA,Medium,Yes,Yes,Melanoma,0
+TP53,EGFR,Medium,Yes,Yes,Glioblastoma,0
+RB1,CDKN2A,Medium,Yes,No,Colon Cancer,1
+BCL2,PTEN,Low,Yes,Yes,None,1
+MDM2,CHEK2,Medium,No,No,None,0
+MDM2,ATM,High,Yes,Yes,Pancreatic Cancer,1
+PTEN,BRCA1,High,Yes,Yes,Pancreatic Cancer,0
+BCL2,RB1,High,No,No,Prostate Cancer,1
+SMAD4,ATM,High,Yes,No,Leukemia,1
+PTEN,ATM,Medium,No,Yes,Lymphoma,1
+KRAS,BRCA1,Low,Yes,Yes,Colon Cancer,1
+PTEN,CTNNB1,High,No,Yes,Lymphoma,1
+CCNA2,CHEK2,Low,Yes,No,Pancreatic Cancer,1
+MYC,TP53,High,Yes,No,Breast Cancer,1
+SMAD4,EGFR,Low,Yes,Yes,Melanoma,0
+CDKN2A,TP53,Low,No,Yes,Colon Cancer,1
+CHEK2,PTEN,High,Yes,Yes,Pancreatic Cancer,1
+CHEK2,EGFR,Low,No,No,Melanoma,1
+RB1,KRAS,Low,No,Yes,Prostate Cancer,1
+BRCA2,TP53,High,Yes,Yes,Breast Cancer,1
+ATM,CCNA2,Medium,Yes,No,Colon Cancer,1
+BCL2,APC,High,Yes,No,Breast Cancer,1
+CDK2,APC,Low,No,No,Breast Cancer,1
+PIK3CA,CDK2,Low,No,No,Prostate Cancer,0
+RB1,CDK2,Medium,Yes,Yes,Multiple Cancers,1
+BRCA2,MDM2,High,Yes,No,Melanoma,0
+EGFR,MDM2,Medium,Yes,Yes,Breast Cancer,1
+CDK2,APC,High,No,Yes,Prostate Cancer,1
+KRAS,PTEN,High,Yes,No,Glioblastoma,1
+BCL2,APC,Low,Yes,No,Lymphoma,0
+EGFR,KRAS,Medium,No,Yes,Lung Cancer,1
+TP53,CHEK2,High,No,Yes,Multiple Cancers,0
+CDK2,AKT1,Low,No,No,Pancreatic Cancer,0
+ATM,APC,High,Yes,No,Glioblastoma,1
+ATM,PTEN,High,No,Yes,Lung Cancer,1
+BRCA2,CDK2,Low,No,Yes,Pancreatic Cancer,0
+PIK3CA,CHEK2,High,Yes,Yes,Lung Cancer,1
+PIK3CA,SMAD4,Medium,No,Yes,Pancreatic Cancer,1
+CHEK2,TP53,High,Yes,No,Melanoma,0
+KRAS,APC,Medium,Yes,No,Lung Cancer,1
+PTEN,PIK3CA,Medium,Yes,No,Glioblastoma,1
+EGFR,PIK3CA,Medium,Yes,Yes,Lymphoma,0
+APC,CHEK2,Low,Yes,Yes,Lymphoma,0
+BCL2,BRCA2,High,Yes,Yes,Lung Cancer,1
+AKT1,KRAS,High,No,Yes,Melanoma,0
+CDKN2A,BRCA2,High,No,No,Prostate Cancer,1
+CDKN2A,MYC,Low,Yes,Yes,Multiple Cancers,0
+PTEN,CCNA2,Low,Yes,Yes,Melanoma,1
+BCL2,RB1,Medium,Yes,Yes,Glioblastoma,1
+CDKN2A,ATM,Medium,Yes,No,Breast Cancer,1
+BRCA1,EGFR,Medium,No,Yes,Melanoma,0
+APC,TP53,High,No,No,None,1
+SMAD4,CHEK2,Low,Yes,Yes,Multiple Cancers,0
+RB1,BRCA1,High,No,No,Breast Cancer,0
+BRCA1,TP53,Medium,No,Yes,Melanoma,1
+CDK2,APC,Low,Yes,No,Prostate Cancer,0
+CDKN2A,BRCA1,Low,Yes,Yes,Glioblastoma,0
+RB1,PTEN,Low,Yes,Yes,Multiple Cancers,1
+CDK2,EGFR,Low,Yes,No,Melanoma,1
+CDK2,AKT1,High,No,No,Breast Cancer,0
+CDK2,PIK3CA,Medium,Yes,No,Leukemia,1
+CDKN2A,SMAD4,Medium,No,Yes,Colon Cancer,0
+CCNA2,MDM2,High,Yes,No,Melanoma,1
+CDKN2A,APC,Medium,Yes,No,Leukemia,1
+BCL2,CHEK2,High,No,No,Lymphoma,1
+PTEN,CHEK2,High,Yes,No,Leukemia,0
+TP53,CDK2,High,No,Yes,Leukemia,1
+PTEN,BRCA1,High,Yes,Yes,Leukemia,1
+CHEK2,BRCA2,Medium,No,Yes,Multiple Cancers,0
+PIK3CA,EGFR,Low,No,Yes,Colon Cancer,1
+KRAS,CCNA2,Medium,Yes,Yes,None,1
+APC,RB1,High,Yes,No,Melanoma,0
+TP53,PIK3CA,High,No,Yes,Prostate Cancer,0
+CHEK2,AKT1,Low,No,No,Pancreatic Cancer,1
+KRAS,CDKN2A,High,No,No,Glioblastoma,0
+APC,MYC,High,No,No,Pancreatic Cancer,0
+RB1,PIK3CA,Medium,No,No,Pancreatic Cancer,0
+BRCA2,BCL2,Low,Yes,No,Glioblastoma,1
+CDK2,MDM2,Medium,No,No,Colon Cancer,0
+RB1,BCL2,Medium,Yes,Yes,Lymphoma,0
+RB1,CCNA2,Low,Yes,No,Melanoma,1
+CTNNB1,SMAD4,High,Yes,No,Lymphoma,0
+SMAD4,ATM,Low,Yes,No,Breast Cancer,0
+TP53,CTNNB1,Low,Yes,No,Melanoma,1
+AKT1,PTEN,High,No,Yes,None,0
+ATM,CDK2,Medium,Yes,No,Colon Cancer,0
+CHEK2,ATM,Low,No,No,Colon Cancer,1
+RB1,MYC,Low,No,No,Leukemia,0
+BRCA2,CHEK2,Medium,Yes,No,Lung Cancer,1
+CHEK2,BRCA1,Medium,Yes,No,Leukemia,0
+PIK3CA,TP53,Low,No,Yes,Multiple Cancers,1
+APC,PTEN,High,No,Yes,Glioblastoma,1
+ATM,PIK3CA,Medium,Yes,Yes,Multiple Cancers,1
+BRCA1,PTEN,Medium,Yes,Yes,None,0
+CTNNB1,EGFR,Low,No,Yes,Colon Cancer,0
+CCNA2,KRAS,Medium,No,Yes,Prostate Cancer,1
+CDKN2A,CDK2,Medium,Yes,No,Prostate Cancer,0
+BRCA2,TP53,Medium,No,Yes,Melanoma,1
+EGFR,MDM2,Medium,Yes,No,Lung Cancer,0
+BRCA1,PTEN,Low,No,Yes,Lung Cancer,1
+MYC,CDKN2A,Low,Yes,No,Leukemia,0
+BRCA1,APC,Low,Yes,Yes,Glioblastoma,0
+CHEK2,CDKN2A,High,No,Yes,Breast Cancer,0
+CTNNB1,KRAS,Medium,Yes,Yes,Prostate Cancer,1
+EGFR,BRCA1,Medium,Yes,Yes,Breast Cancer,0
+SMAD4,CDKN2A,Medium,No,Yes,Lymphoma,1
+CDKN2A,AKT1,Medium,No,No,Lymphoma,1
+MDM2,KRAS,Medium,Yes,Yes,Multiple Cancers,0
+TP53,CTNNB1,Medium,Yes,No,None,0
+CTNNB1,PIK3CA,Low,Yes,No,Multiple Cancers,1
+CCNA2,APC,High,Yes,Yes,Melanoma,0
+BRCA2,SMAD4,Low,No,No,None,0
+ATM,BRCA2,High,Yes,No,Glioblastoma,0
+MDM2,MYC,Low,Yes,Yes,Lung Cancer,0
+CDKN2A,SMAD4,Low,No,No,Melanoma,1
+PIK3CA,PTEN,Low,Yes,No,Leukemia,1
+PTEN,BRCA1,High,No,Yes,Breast Cancer,1
+PTEN,MYC,High,No,No,Leukemia,0
+CHEK2,MYC,Low,No,No,Colon Cancer,1
+BRCA2,BCL2,High,Yes,No,Glioblastoma,1
+BRCA1,KRAS,High,No,No,Leukemia,0
+AKT1,BRCA2,Medium,No,Yes,Multiple Cancers,1
+BCL2,CHEK2,High,Yes,Yes,Leukemia,0
+EGFR,BRCA2,High,Yes,No,Melanoma,0
+ATM,AKT1,High,No,Yes,None,0
+SMAD4,BRCA2,Low,Yes,No,Lung Cancer,0
+MDM2,BRCA1,Low,No,Yes,None,1
+MYC,PIK3CA,Low,No,Yes,Breast Cancer,1
+BCL2,BRCA2,Low,Yes,No,Prostate Cancer,1
+AKT1,SMAD4,High,Yes,Yes,Leukemia,0
+PTEN,CDKN2A,High,Yes,Yes,Melanoma,0
+CDKN2A,CDK2,Medium,Yes,Yes,Lymphoma,0
+MDM2,ATM,High,No,Yes,Prostate Cancer,1
+AKT1,PTEN,Low,No,Yes,Colon Cancer,1
+APC,CDK2,Low,No,Yes,Colon Cancer,1
+KRAS,CCNA2,High,Yes,Yes,Multiple Cancers,0
+ATM,MYC,Medium,No,Yes,Pancreatic Cancer,1
+APC,CDK2,Low,Yes,Yes,Pancreatic Cancer,1
+KRAS,APC,High,No,Yes,Lung Cancer,0
+CHEK2,RB1,Low,Yes,No,Colon Cancer,0
+SMAD4,CDK2,Medium,Yes,No,Lung Cancer,0
+RB1,BRCA2,High,Yes,No,Multiple Cancers,0
+MDM2,APC,Medium,Yes,Yes,Pancreatic Cancer,0
+AKT1,KRAS,Low,No,Yes,Leukemia,0
+SMAD4,APC,Low,Yes,Yes,Prostate Cancer,1
+KRAS,CDK2,Medium,Yes,Yes,Pancreatic Cancer,1
+ATM,SMAD4,Low,No,No,Glioblastoma,1
+CHEK2,KRAS,Medium,Yes,No,Multiple Cancers,1
+AKT1,CTNNB1,Medium,No,Yes,None,0
+CCNA2,CDK2,Low,No,Yes,None,0
+BRCA2,PIK3CA,High,No,Yes,Glioblastoma,0
+MYC,KRAS,Low,Yes,Yes,Prostate Cancer,0
+EGFR,KRAS,Medium,No,Yes,Prostate Cancer,1
+AKT1,MYC,Low,Yes,No,None,1
+KRAS,BCL2,Low,Yes,Yes,Glioblastoma,0
+SMAD4,KRAS,Low,No,Yes,Lung Cancer,0
+ATM,PTEN,Low,No,Yes,Colon Cancer,1
+AKT1,PTEN,Medium,No,No,Multiple Cancers,0
+PTEN,AKT1,Low,No,Yes,Leukemia,1
+SMAD4,AKT1,Low,No,Yes,Multiple Cancers,0
+PTEN,PIK3CA,Medium,No,No,None,1
+EGFR,AKT1,High,No,Yes,Lymphoma,0
+RB1,CDKN2A,High,Yes,Yes,Glioblastoma,1
+MYC,CDK2,Medium,No,Yes,Leukemia,1
+MYC,RB1,Medium,No,No,Pancreatic Cancer,1
+EGFR,KRAS,Low,No,No,None,1
+BCL2,SMAD4,High,No,No,Lymphoma,1
+BRCA2,PIK3CA,High,No,Yes,Leukemia,0
+CDKN2A,MDM2,Medium,Yes,No,Lymphoma,1
+TP53,CCNA2,Medium,No,No,Prostate Cancer,1
+RB1,CCNA2,High,Yes,Yes,Pancreatic Cancer,0
+EGFR,PIK3CA,High,No,No,Lung Cancer,0
+APC,CDK2,Low,No,No,Pancreatic Cancer,1
+PTEN,MDM2,Low,No,No,Melanoma,1
+PIK3CA,PTEN,Low,Yes,Yes,Pancreatic Cancer,0
+CDK2,PIK3CA,Medium,No,No,Pancreatic Cancer,0
+RB1,CTNNB1,Low,Yes,No,Lymphoma,0
+KRAS,APC,High,No,No,None,0
+MYC,CDK2,Low,No,Yes,Breast Cancer,0
+ATM,KRAS,Low,Yes,Yes,Lymphoma,0
+BCL2,PIK3CA,Medium,No,Yes,Lymphoma,1
+BRCA1,CTNNB1,High,No,Yes,Prostate Cancer,0
